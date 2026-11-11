@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://waalilab.in/sitemap.xml
